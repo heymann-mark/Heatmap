@@ -1,0 +1,28 @@
+
+html {
+	overflow: hidden;
+}
+
+body {
+	background-color: gray;
+    background-image: url("rink9.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+form {
+	background: blue;
+	margin: 12px 12px 12px 12px;
+	padding: 3px 3px 3px 3px;
+	border-style: solid;
+	border-width: medium; /* sets border width on all sides */
+	border-color: black;
+	width: 200px;
+	height: 700px;
+}
+
+input {
+	background: blue;
+	margin: 12px 12px 12px 12px;
+	padding: 3px 3px 3px 3px;
+}
